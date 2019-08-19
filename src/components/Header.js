@@ -2,7 +2,7 @@ import React from "react";
 import { Link, NavLink } from "react-router-dom";
 
 export default () => (
-  <nav className="navbar navbar-expand-md navbar-dark bg-info fixed-top">
+  <nav className="navbar navbar-expand-md navbar-dark bg-info">
     <Link className="navbar-brand" to="/">
       Stripe Shop
     </Link>
